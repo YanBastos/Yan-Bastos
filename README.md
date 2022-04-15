@@ -1,15 +1,15 @@
 ## Olá! Eu sou Yan Bastos Moraes
 
-- 🌱 Atualmente estou realizando Treinamento Full Stack JavaScript;
-- 👾 Cursando Analise e Desenvolvimento de Sistemas
-- 👀 Estou interessado em aprender e me colocar no mercado de trabalho
+- 🌱 Cursando Analise e Desenvolvimento de Sistemas.
+- 👾 Atualmente estou realizando Treinamento Full Stack JavaScript.
+- 👀 Estou interessado em aprender e me colocar no mercado de trabalho.
 
 <Icons>
 
-<div align="center">
+<div  align="center">
   <a href="https://github.com/YanBastos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanBastos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanBastos&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YanBastos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanBastos&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -21,7 +21,10 @@
   
 </div>
     
+    
   ##
+  
+  <Social Media>
   
   <div> 
   
