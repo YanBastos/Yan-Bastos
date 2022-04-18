@@ -2,7 +2,7 @@
 
 - 🌱 Cursando Analise e Desenvolvimento de Sistemas.
 - 👾 Atualmente estou realizando Treinamento Full Stack JavaScript.
-- 👀 Estou interessado em aprender e me colocar no mercado de trabalho.
+- 👀 Estou interessado em aprender e me inserir no mercado de trabalho.
 
 <Icons>
 
