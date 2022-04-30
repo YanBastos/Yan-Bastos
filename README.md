@@ -17,7 +17,6 @@
   <img align="center" alt="Yan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yan-CSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg">
-  <img align="center" alt="Yan-CSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="right" alt="Yan-pic" height="150" style="border-radius:50px;" 
   <img align="right" alt="bb8-pic" src="https://media3.giphy.com/media/3o85xKDARMnMuupyHS/giphy.gif?cid=ecf05e474k2p8gn0etsnngji7in5wzf1xq4xwxvhqrkh6id9&rid=giphy.gif&ct=g">
   
