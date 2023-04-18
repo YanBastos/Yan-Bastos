@@ -1,7 +1,7 @@
 ## Olá! Eu sou Yan Bastos Moraes
 
 - 🌱 Cursando Analise e Desenvolvimento de Sistemas.
-- 👾 Atualmente estou realizando Treinamento Full Stack JavaScript.
+- 👾 
 
 
 <Icons>
